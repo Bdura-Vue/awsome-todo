@@ -1,5 +1,5 @@
-import Vue from 'vue'
-
+// import Vue from 'vue'
+import vue from 'vue'
 const state = {
     tasks: {
         'ID1': {
